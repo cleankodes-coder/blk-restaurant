@@ -1,0 +1,207 @@
+[
+  {
+    "path": "public/assets/brand/blk-logo-original.jpg",
+    "category": "brand",
+    "source_name": "260213953_1132511747290577_353039779870394703_n.jpg",
+    "width": 1080,
+    "height": 1080,
+    "description": "Original BLK script logo on white; preserve for reference",
+    "source": "User-provided archive; commercial rights not independently verified"
+  },
+  {
+    "path": "public/assets/food/blk-food-spread-hero.jpg",
+    "category": "hero",
+    "source_name": "849291149_18077360189718743_3505747661318837736_n (1).jpg",
+    "width": 3072,
+    "height": 4080,
+    "description": "High resolution overhead banquet photograph with logo; best hero image",
+    "source": "User-provided archive; commercial rights not independently verified"
+  },
+  {
+    "path": "public/assets/food/blk-plated-dish-01.jpg",
+    "category": "food",
+    "source_name": "486234300_18007769102718743_1563208621142056941_n.jpg",
+    "width": 512,
+    "height": 640,
+    "description": "Restaurant table with plated dishes, portrait composition",
+    "source": "User-provided archive; commercial rights not independently verified"
+  },
+  {
+    "path": "public/assets/food/blk-plated-dish-02.jpg",
+    "category": "food",
+    "source_name": "imgi_10_777084679_18068843417718743_3451326499984951294_n.jpg",
+    "width": 512,
+    "height": 640,
+    "description": "Dark food close-up with skewers",
+    "source": "User-provided archive; commercial rights not independently verified"
+  },
+  {
+    "path": "public/assets/food/blk-plated-dish-03.jpg",
+    "category": "food",
+    "source_name": "imgi_12_504270436_18018610103718743_3122819907558615795_n.jpg",
+    "width": 640,
+    "height": 640,
+    "description": "Plated crispy dish with sauce",
+    "source": "User-provided archive; commercial rights not independently verified"
+  },
+  {
+    "path": "public/assets/food/blk-plated-dish-04.jpg",
+    "category": "food",
+    "source_name": "imgi_13_514001625_18018609437718743_7455060665021442847_n.jpg",
+    "width": 640,
+    "height": 640,
+    "description": "Artfully arranged skewers",
+    "source": "User-provided archive; commercial rights not independently verified"
+  },
+  {
+    "path": "public/assets/food/blk-plated-dish-05.jpg",
+    "category": "food",
+    "source_name": "imgi_14_508606874_18017234114718743_1431500125656212452_n.jpg",
+    "width": 640,
+    "height": 640,
+    "description": "Plated dish with crispy garnish",
+    "source": "User-provided archive; commercial rights not independently verified"
+  },
+  {
+    "path": "public/assets/food/blk-plated-dish-06.jpg",
+    "category": "food",
+    "source_name": "imgi_15_508423159_18017103368718743_2542501021134974325_n.jpg",
+    "width": 640,
+    "height": 640,
+    "description": "Grilled fish plated with sides; confirm dish name before labelling",
+    "source": "User-provided archive; commercial rights not independently verified"
+  },
+  {
+    "path": "public/assets/food/blk-pizza-hero.jpg",
+    "category": "food",
+    "source_name": "imgi_16_508611757_18017101751718743_553962729254608718_n.jpg",
+    "width": 640,
+    "height": 640,
+    "description": "Premium pizza photographed on BLK branded uniform",
+    "source": "User-provided archive; commercial rights not independently verified"
+  },
+  {
+    "path": "public/assets/food/blk-burger-and-fries.jpg",
+    "category": "food",
+    "source_name": "imgi_17_508390120_18017099081718743_4456599660236534975_n.jpg",
+    "width": 622,
+    "height": 640,
+    "description": "Burger and sides with BLK uniform",
+    "source": "User-provided archive; commercial rights not independently verified"
+  },
+  {
+    "path": "public/assets/food/blk-burger-closeup.jpg",
+    "category": "food",
+    "source_name": "imgi_9_778852705_18068844446718743_3737733911958414985_n.jpg",
+    "width": 640,
+    "height": 640,
+    "description": "Burger in dramatic lighting",
+    "source": "User-provided archive; commercial rights not independently verified"
+  },
+  {
+    "path": "public/assets/food/blk-dessert-presentation.jpg",
+    "category": "food",
+    "source_name": "imgi_8_823744989_1696237938139283_5289633606104630896_n.jpg",
+    "width": 361,
+    "height": 640,
+    "description": "Dessert presentation in dramatic lighting",
+    "source": "User-provided archive; commercial rights not independently verified"
+  },
+  {
+    "path": "public/assets/food/blk-table-plated-dish.jpg",
+    "category": "food",
+    "source_name": "unnamed (1).jpg",
+    "width": 253,
+    "height": 336,
+    "description": "Dining table food/detail shot",
+    "source": "User-provided archive; commercial rights not independently verified"
+  },
+  {
+    "path": "public/assets/venue/blk-sign-interior-01.jpg",
+    "category": "venue",
+    "source_name": "867635359_18078875069718743_153457964977960704_n.jpg",
+    "width": 320,
+    "height": 569,
+    "description": "Interior wall branding / hanging lights",
+    "source": "User-provided archive; commercial rights not independently verified"
+  },
+  {
+    "path": "public/assets/venue/blk-logo-wall.jpg",
+    "category": "venue",
+    "source_name": "unnamed (2).jpg",
+    "width": 189,
+    "height": 336,
+    "description": "Logo feature wall",
+    "source": "User-provided archive; commercial rights not independently verified"
+  },
+  {
+    "path": "public/assets/venue/blk-entry-interior.jpg",
+    "category": "venue",
+    "source_name": "unnamed (3).jpg",
+    "width": 189,
+    "height": 336,
+    "description": "Indoor staircase/entry branding",
+    "source": "User-provided archive; commercial rights not independently verified"
+  },
+  {
+    "path": "public/assets/venue/blk-exterior-evening.jpg",
+    "category": "venue",
+    "source_name": "unnamed (4).jpg",
+    "width": 408,
+    "height": 725,
+    "description": "Restaurant exterior sign at night",
+    "source": "User-provided archive; commercial rights not independently verified"
+  },
+  {
+    "path": "public/assets/venue/blk-exterior-day.jpg",
+    "category": "venue",
+    "source_name": "unnamed.jpg",
+    "width": 221,
+    "height": 336,
+    "description": "Restaurant exterior facade",
+    "source": "User-provided archive; commercial rights not independently verified"
+  },
+  {
+    "path": "_reference_only/menu-photo-page-1.png",
+    "category": "reference",
+    "source_name": "Screenshot 2026-10-26 190028.png",
+    "width": 732,
+    "height": 891,
+    "description": "Historical menu image; never display on website",
+    "source": "User-provided archive; commercial rights not independently verified"
+  },
+  {
+    "path": "_reference_only/menu-photo-page-2.png",
+    "category": "reference",
+    "source_name": "Screenshot 2026-10-26 190046.png",
+    "width": 561,
+    "height": 890,
+    "description": "Historical menu image; never display on website",
+    "source": "User-provided archive; commercial rights not independently verified"
+  },
+  {
+    "path": "_reference_only/deliveroo-capture.png",
+    "category": "reference",
+    "source_name": "5db73b6f-3de1-4df8-94ea-44faf3fd7877.png",
+    "width": 1920,
+    "height": 8754,
+    "description": "Deliveroo screenshot; context only; no screenshot display",
+    "source": "User-provided archive; commercial rights not independently verified"
+  },
+  {
+    "path": "public/assets/brand/blk-logo-ivory-transparent.png",
+    "category": "brand",
+    "source_name": "blk-logo-original.jpg",
+    "width": 892,
+    "height": 392,
+    "description": "Background removed and tonal adaptation of authentic provided logo; exact mark shape retained"
+  },
+  {
+    "path": "public/assets/brand/blk-logo-charcoal-transparent.png",
+    "category": "brand",
+    "source_name": "blk-logo-original.jpg",
+    "width": 892,
+    "height": 392,
+    "description": "Background removed and tonal adaptation of authentic provided logo; exact mark shape retained"
+  }
+]

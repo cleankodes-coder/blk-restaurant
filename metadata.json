@@ -1,0 +1,6 @@
+{
+  "name": "BLK Restaurant Abu Dhabi",
+  "description": "Official luxury preview for BLK Restaurant, Abu Dhabi. Experience bold flavours, considered details, artisanal steaks, burgers, pizza, and a dark cinematic dining atmosphere.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

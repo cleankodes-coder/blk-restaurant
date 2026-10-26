@@ -1,0 +1,70 @@
+BLK RESTAURANT — PREMIUM GOOGLE AI STUDIO BUILD PROMPT
+======================================================
+
+MISSION
+You are an award-winning hospitality art director, senior product designer and React developer. Build a complete, exceptional, fully responsive premium website preview for BLK Restaurant, Abu Dhabi. I am attaching a cleaned asset ZIP containing the restaurant's real branding/food/venue photographs, plus menu references. IMPLEMENT THE SITE NOW. Do not merely respond with a plan or concept, and do not ask me to supply more files.
+
+NON-NEGOTIABLE FIRST STEP: READ THE ASSETS
+1. Inspect asset-manifest.json and menu-reference.json in the uploaded project ZIP.
+2. Extract/copy the supplied files into the project's public/assets/ folder, maintaining their paths; ensure the images really render in the built application.
+3. Separate public website assets from _reference_only/ screenshots. Never show the _reference_only/ Google Maps screenshots, Deliveroo screen capture, or document screenshots as images on the website.
+4. Do not generate food photography or logos; use the supplied genuine BLK photographs. Do not hotlink images from Instagram, Google Maps, or delivery services.
+5. Image filenames deliberately say 'plated-dish' where exact dish identity is uncertain. Never label a photo as a specific menu item unless you can substantiate the match.
+6. For any missing image, use a tasteful typographic/image-free layout, rather than inventing an unrelated photo.
+
+VISUAL DIRECTION
+Luxury editorial, dark cinematic dining. BLK's Instagram uses black backgrounds, dramatic premium food photography, controlled warm light, a distinctive BLK wordmark, and occasional rich green details. A polished high-end restaurant site must feel authentic to THIS brand, not like an AI template.
+
+COLOR TOKENS
+--ink: #0C0D0C; --coal: #171918; --emerald: #17382E; --warm-white: #F3F0EA; --champagne: #B6A27E; --muted: #AFB3AF.
+Dominant is dark black/charcoal; champagne accents only sparingly, subdued rich green in backgrounds if it harmonizes with the original supplied food-spread image. No neon, broad gradient washes, garish gold, glowing buttons or oversized 3D effects.
+
+TYPOGRAPHY
+Elegant editorial serif e.g. Cormorant Garamond for main headings, and clean sans-serif e.g. Manrope for navigation and body. Deliberate type scale, excellent contrast, concise purposeful copy, generous breathing room. Art-direct the image/copy relationship.
+
+BRANDING / HERO IMAGE RULES
+- Use /assets/brand/blk-logo-ivory-transparent.png on the dark header/footer. It is extracted from the user's actual BLK logo, not a newly invented design. Use blk-logo-original.jpg only if a light-background asset is needed.
+- Use /assets/food/blk-food-spread-hero.jpg (3072x4080 source) as the PRIMARY homepage hero photographic feature. This is PORTRAIT, not a landscape banner. On desktop, create a split editorial hero with copy on the left and food spread on the right, preserving the entire composition and the restaurant logo visible in the image. On mobile stack text and photo and use object-contain or a thoughtfully composed crop.
+- Show the supplied photographs in realistic aspect ratios. Do not stretch, add fake dishes, hallucinate a venue, or heavily blur the photography.
+- Put interior/exterior photos only in the venue/visit/gallery sections; portrait narrow low-resolution images should NOT become giant wide hero backgrounds.
+
+BRAND & CONTACT FACTS
+Brand: BLK Restaurant
+Location: Khalifa Park, Zone 1, Abu Dhabi, UAE (approximate location from provided maps screenshot; verify exact address before public launch).
+Instagram: @blk.restaurant.ae (confirm exact URL with provided user materials).
+Delivery: BLK Restaurant has a Deliveroo page; only wire to a known verified public URL. If the URL is unknown, use a clearly labeled 'Order Online' contact action or leave as placeholder for later configuration, NOT an invented link.
+Contact telephone, WhatsApp, precise hours and availability: do not invent. Define easily editable settings and show a 'Contact details to confirm' state in preview where needed.
+
+SITE NAVIGATION AND SECTIONS
+Build all of the following as a functioning responsive app, not inert rectangles:
+
+1. DARK STICKY HEADER: authentic transparent logo; Home, Our Story, Menu, Gallery, Visit; CTA 'Reserve a Table'. Mobile burger menu. Excellent contrast and accessible keyboard focus.
+
+2. HERO: distinctive premium composition, NOT stock-template overlay. Suggested headline 'EVERY PLATE. AN EXPERIENCE.' Subtitle 'Bold flavours, considered details, and a dining atmosphere that stays with you.' CTAs 'Explore Menu' and 'Reserve a Table'. Use actual food-spread image as noted above.
+
+3. THE BLK EXPERIENCE: about section with restrained editorial typography, one authentic photo, original tasteful copy without claims about awards or establishment date. Make the image and text feel custom art directed.
+
+4. SIGNATURE MOMENTS: visually arresting grid featuring genuine food assets: /assets/food/blk-burger-closeup.jpg, blk-burger-and-fries.jpg, blk-pizza-hero.jpg, blk-plated-dish-03.jpg, blk-plated-dish-05.jpg, blk-dessert-presentation.jpg. Use descriptive captions like 'A BLK favourite' unless exact dish names are independently matched to photos. NOT fake testimonials or invented chef biographies.
+
+5. ACTUAL DIGITAL MENU: use menu-reference.json as the available HISTORICAL MENU NAMES reference. The older menu photos in _reference_only/ are dated Jan 2025; do NOT display prices, assert availability, or publish ingredients as current without validation. Structure a clean, editable menu with category filter/search, menu sections, name, optional verified description, optional verified price, and a polished presentation even for entries without photographs. If a price has not been verified, omit the price completely, don't show AED 0 or 'TBD'. Keep categories like Burgers, Pasta & Mains, Pizza, Sliders, Grill, Desserts, Mocktails, Fresh Juices, Coffee, Soft Drinks. Add compact menu-category navigation on mobile. Do not invent dozens of menu items outside the provided reference.
+
+6. IMAGE GALLERY: beautifully composed asymmetrical gallery using original food and venue assets in public/assets/food/ and public/assets/venue/. Implement functioning clickable lightbox, previous/next navigation, escape key, image labels without false dish names. Keep image sizes appropriate to source quality.
+
+7. THE VENUE: sophisticated dark section highlighting atmosphere; show entry photos and closeup of actual logo wall. No AI-generated venue interiors. Emphasize genuine location and route directions. A 'Find Us' link should take the visitor to Google Maps search for 'BLK Restaurant Khalifa Park Abu Dhabi' (or to a verified official Google Maps link).
+
+8. RESERVATIONS / CONTACT: working front-end form with full name, date, time, party size, contact info and optional notes. It is a NON-LIVE DEMONSTRATION: label as 'Reservation request preview'; validate entries and show 'This is a website preview; requests are not sent' rather than a fake confirmation. Provide a configurable reservation provider or WhatsApp integration hook; do not imply any actual booking is confirmed. Call and WhatsApp CTAs should not be active until destination number is confirmed.
+
+9. FOOTER: actual logo, short brand copy, menu/gallery/visit links, social link if verified, contact and copyright, no invented partners or awards.
+
+UX DETAILS
+- Mobile-first behavior 320–1440+ px; no horizontal scroll, clipping, overlapping headers or giant menus.
+- Navigation works and meaningful buttons work. Sticky mobile Reserve action only if it doesn't obscure content.
+- Form fields and photo lightbox have keyboard and screen-reader labels.
+- Avoid fake chat widgets, fake reviews or fake pricing claims.
+- Elegant fade-in/micro-interactions with respect for reduced-motion. Fast page load. Lazy-load lower page images, preload important hero assets.
+- Optimize for attractive above-the-fold screenshot on desktop and mobile; prioritize premium photography and layout.
+- Build lightweight fast React + TypeScript + Tailwind components or closest supported stack, production-quality file structure, no broken paths or console errors, compatible with GitHub->Vercel.
+- Centralize menu entries and contact details in data files for rapid editing later.
+
+QUALITY AND DEPLOYMENT VALIDATION
+After building, inspect the entire page and check: correct logo, all existing photos correctly referenced, no unrelated/generated restaurant imagery, functioning navigation/filter/lightbox, safe simulated reservation flow, no fake business facts, no overflow at 375px, sensible image loading, and every CTA meaningful. The site should be immediately suitable as a high-quality CLIENT PREVIEW, clearly labelled as such where forms are non-live. Finish the actual code implementation.
